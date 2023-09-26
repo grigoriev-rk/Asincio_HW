@@ -1,0 +1,8 @@
+datetime==5.2
+requests==2.31.0
+asyncio==3.4.3
+aiohttp==3.8.5
+more-itertools==10.1.0
+SQLAlchemy==1.4.48
+asyncpg==0.28.0
+
